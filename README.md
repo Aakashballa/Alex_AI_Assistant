@@ -17,8 +17,9 @@ A personal AI voice assistant inspired by J.A.R.V.I.S from Iron Man — using of
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/Jarvis-AI-Assistant.git
-cd Jarvis-AI-Assistant
+git clone https://github.com/Aakashballa/Alex.git
+cd Alex
+
 ```
 
 ### 2. Install Python packages
